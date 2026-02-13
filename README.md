@@ -110,13 +110,34 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hey I am **Roshan Kohli**
+I am a Computer Science undergraduate with a focus on data-centric systems, machine learning fundamentals, and practical software development. My interests lie in building scalable, well-structured solutions rather than one-off scripts.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+---
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+## Areas of Interest
+- Data Science and Analytics  
+- Machine Learning (theory + implementation)  
+- Software Engineering fundamentals  
+- System design and architecture  
+
+---
+
+## Technical Skills
+- **Languages:** Python, SQL, TypeScript  
+- **Data & ML:** Pandas, NumPy, Scikit-learn  
+- **Frontend:** HTML, CSS, Tailwind CSS  
+- **Tools:** Git, GitHub, Power BI  
+
+---
+
+## Current Focus
+- Strengthening ML fundamentals (clustering, dimensionality reduction, ensembles)  
+- Building end-to-end projects with clean structure and documentation  
+- Improving problem-solving and system thinking  
+
+---
+
+## Contact
+- GitHub: https://github.com/RoshanKohli1402
+- LinkedIn: https://www.linkedin.com/in/roshan-kohli-a45100293/
